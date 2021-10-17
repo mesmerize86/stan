@@ -1,0 +1,22 @@
+{
+  "SocialIcons": [
+    {
+      "id": 1,
+      "name": "facebook",
+      "alt": "Facebook Icon",
+      "image_url": "/assets/images/social/facebook-white.svg"
+    },
+    {
+      "id": 2,
+      "name": "instagram",
+      "alt": "Instagram Icon",
+      "image_url": "/assets/images/social/instagram-white.svg"
+    },
+    {
+      "id": 3,
+      "name": "twitter",
+      "alt": "Twitter Icon",
+      "image_url": "/assets/images/social/twitter-white.svg"
+    }
+  ]
+}

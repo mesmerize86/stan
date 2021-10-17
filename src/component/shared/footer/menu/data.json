@@ -1,0 +1,31 @@
+{
+  "FooterMenus" : [
+    {
+      "id": 1,
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "name": "Terms and Conditions",
+      "link": "/"
+    },
+    {
+      "id": 3,
+      "name": "Privacy Policy",
+      "link": "/"
+    },{
+      "id": 4,
+      "name": "Collection Statement",
+      "link": "/"
+    },{
+      "id": 5,
+      "name": "Help",
+      "link": "/"
+    },{
+      "id": 6,
+      "name": "Management",
+      "link": "/"
+    }
+  ]
+}

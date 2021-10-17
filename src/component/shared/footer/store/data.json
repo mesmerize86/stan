@@ -1,0 +1,22 @@
+{
+  "StoreIcons": [
+    {
+      "id": 1,
+      "name": "App Store",
+      "alt": "App Icon",
+      "image_url": "/assets/images/store/app-store.svg"
+    },
+    {
+      "id": 2,
+      "name": "Play Store",
+      "alt": "Play Icon",
+      "image_url": "/assets/images/store/play-store.svg"
+    },
+    {
+      "id": 3,
+      "name": "Window",
+      "alt": "Window Icon",
+      "image_url": "/assets/images/store/windows-store.svg"
+    }
+  ]
+}
