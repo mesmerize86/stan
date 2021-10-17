@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Note: Please ensure you that your node version is above 10.
+Note: Please ensure that your node version is above 10.
 
 ## Where to start
 
