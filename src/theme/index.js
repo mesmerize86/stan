@@ -1,14 +1,6 @@
 const AppTheme = {
   colors: {
     brand: '#0072fb',
-    brandLight: '#787d94',
-    brandLighter: '#999EB3', //Depreciate this later
-  
-    primaryDark: '#ff8eaa', //Depreciate
-  
-    primary: '#FF8EAA',
-    primary_dark: '#F95E83',
-    primary_light: '#F5A2B6',
     bodyColor: '#333333',
     grayDark: '#1e1e1e',
     grayDarker: '#2e2e2e',
